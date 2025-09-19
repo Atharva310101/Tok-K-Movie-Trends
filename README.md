@@ -2,7 +2,7 @@
 
 * Team Name: team-05
 * Author 1: Atharva Pargaonkar
-* Author 2: Shrutee Dwa
+* Author 2: #######
 * Class: CS535 Section 1
 * Semester: Fall 2023
 
@@ -189,7 +189,7 @@ on cluster as it took much less time compared to local machine. I found that imp
 project very interesting as it had similarities with MySQL where we write join table queries
 to analyze data.
 
-### Reflection by Shrutee Dwa:
+### Reflection by Team-mate 2:
 
 Since Atharva and I had already worked together in a team for our other course, the communication
 and collaboration required to work in a team came naturally to us. We were able to effectively
